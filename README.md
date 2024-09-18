@@ -1,6 +1,6 @@
 # mobile_rawuhgo
 
-A new Flutter project.
+Rawuh-Go: Aplikasi Presensi
 
 ## Getting Started
 
